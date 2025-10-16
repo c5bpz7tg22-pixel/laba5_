@@ -198,6 +198,7 @@
       <DependentUpon>SakaevaModel.edmx</DependentUpon>
       <LastGenOutput>SakaevaModel.cs</LastGenOutput>
     </Content>
+    <Resource Include="Услуги автосервиса\picture.png" />
     <Resource Include="Услуги автосервиса\diz.jpg" />
     <Resource Include="Услуги автосервиса\rulevoe-upravlenie-avtomobilya.jpg" />
     <Resource Include="Услуги автосервиса\transmission.jpg" />
